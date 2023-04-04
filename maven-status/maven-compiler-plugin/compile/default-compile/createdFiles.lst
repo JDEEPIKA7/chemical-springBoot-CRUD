@@ -1,0 +1,5 @@
+com\example\chemical\repository\ChemicalRepository.class
+com\example\chemical\service\ChemicalService.class
+com\example\chemical\controller\ChemicalController.class
+com\example\chemical\ChemicalApplication.class
+com\example\chemical\model\Chemical.class
